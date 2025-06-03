@@ -7,7 +7,7 @@
 - 🛠️ Core Tech Stack:
   - **Languages:** Python, C/C++, Java, SQL
   - **ML/AI:** PyTorch, Hugging Face Transformers, Token Classification, Forecasting Models
-  - **Backend:** FastAPI, Flask, Redis, MongoDB
+  - **Backend:** FastAPI, Flask, Redis, MongoDB, PostgreSQL, MySql, React, React Native, C#
   - **Embedded/DevOps:** Jetson Nano, Arduino, Docker, Linux
 - 🌍 Passionate about AI deployment on edge devices, intelligent automation, and scalable backend design.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/strecshazovski/)
